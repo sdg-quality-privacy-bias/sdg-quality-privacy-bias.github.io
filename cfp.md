@@ -44,6 +44,6 @@ Please email any enquiries to [XXX](mailto:XXX)
 Three best paper awards will selected, based on scientific merit, impact, and clarity. A $500.00 USD cash prize will be awarded to the 1st prize best paper. Best paper awards are nominated by program committee and judged by the Best Paper award committee. 
 
 Award sponsor:<br>
-<a href='https://www.amazon.science/'><img src="{{site.url}}/2020/img/amazon_science.png" height="140px"></a>
+<a href='https://www.amazon.science/'><img src="{{site.url}}/img/amazon_science.png" height="140px"></a>
 
 
