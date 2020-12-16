@@ -14,7 +14,7 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: Synthetic Data Generation Quality, Privacy, Bias Workshop at ICLR'21
+title: Synthetic Data Generation: Quality, Privacy, Bias Workshop at ICLR'21
 
 # Short description of your site
 description: Describe our workshop
@@ -31,7 +31,7 @@ navbar-links:
   # - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
   # - Learn markdown: "http://www.markdowntutorial.com/"
   # - GitHub Pages: "https://pages.github.com/"
-  # Organizers: "#organizers"
+  Organizers: "#organizers"
   About: "https://sdg-quality-privacy-bias.github.io"
 
 # Image to show in the navigation bar - image must be a square (width = height)
@@ -68,7 +68,7 @@ footer-link-col: "#404040"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: KR2ML
+  name: Synthetic Data Generation
 
 # Select your active Social Network Links.
 # Uncomment the links you want to show in the footer and add your information to each link.
