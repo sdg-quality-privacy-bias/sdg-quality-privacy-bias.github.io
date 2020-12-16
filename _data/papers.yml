@@ -1,0 +1,99 @@
+paper_2:
+  authors: "Weixin Liang; Feiyang Niu; Aishwarya Reganti; Govind Thattai; Gokhan Tur"
+  title: "LRTA: A Transparent Neural-Symbolic Reasoning Framework with Modular Supervision for Visual Question Answering"
+  alt_url: ""
+
+paper_4:
+  authors: "Alexander P Rader; Ionela G Mocanu; Vaishak Belle; Brendan Juba"
+  title: "Learning Implicitly with Noisy Data in Linear Arithmetic"
+  alt_url: ""
+
+paper_6: 
+  authors: "Agnieszka Dobrowolska; Antonio Vergari; Pasquale Minervini"
+  title: Neural Concept Formation in Knowledge Graphs"
+  alt_url: ""
+
+paper_7:
+  authors: "Tara L Safavi; Danai Koutra"
+  title: "Generating Negative Commonsense Knowledge"
+  alt_url: ""
+
+paper_8:
+  authors: "Victor Kolev; Bogdan M Georgiev; Svetlin Penkov"
+  title: "Neural Abstract Reasoner"
+  alt_url: ""
+
+paper_9:
+  authors: "Lu Zhang; Mo Yu; Tian Gao; Yue Yu"
+  title: "MCMH: Learning Multi-Chain Multi-Hop Rules for Knowledge Graph Reasoning"
+  alt_url: ""
+
+paper_10:
+  authors: "Jupinder Parmar; William Koehler; Martin Bringmann; Katharina Volz; Berk Kapicioglu"
+  title: "Biomedical Information Extraction for Disease Gene Prioritization"
+  alt_url: ""
+
+paper_12:
+  authors: "George I Stoica; Emmanouil Antonios Platanios; Barnabas Poczos"
+  title: "Re-TACRED: A New Relation Extraction Dataset"
+  alt_url: ""
+
+paper_13:
+  authors: "Pashootan Vaezipoor; Gil Lederman; Yuhuai Wu; Chris Maddison; Roger B Grosse; Sanjit Seshia; Fahiem Bacchus"
+  title: "Neuro#: A Distribution Tailored Model Counter"
+  alt_url: ""
+
+paper_16:
+  authors: "Srivamshi Pittala; William Koehler; Jonathan Deans; Daniel Salinas; Martin Bringmann; Katharina Volz; Berk Kapicioglu"
+  title: "Relation-weighted link prediction for disease gene identification"
+  alt_url: ""
+
+paper_19:
+  authors: "Luca Biggio; Tommaso Bendinelli"
+  title: "A Seq2Seq approach to Symbolic Regression"
+  alt_url: ""
+
+paper_20:
+  authors: "Neev Parikh; Naveen Srinivasan; Zachary Horvitz; Aansh Shah; George Konidaris"
+  title: "Graph Embedding Priors for Multi-task DeepReinforcement Learning"
+  alt_url: ""
+
+paper_22:
+  authors: "Maayan Shvo; Andrew Li; Rodrigo Toro Icarte; Sheila A. McIlraith"
+  title: "Learning Interpretable Models for Sequence Classification via Discrete Optimization (Abridged Report)"
+  alt_url: ""
+
+paper_25:
+  authors: "Hongyu Ren; Hanjun Dai; Bo Dai; Xinyun Chen; Jure Leskovec; Denny Zhou"
+  title: "Latent Execution-Guided Reasoning for Multi-Hop Question Answering on Knowledge Graphs"
+  alt_url: ""
+
+paper_28:
+  authors: "George I Stoica; Emmanouil Antonios Platanios; Barnabas Poczos"
+  title: "Knowledge Graph Enhanced Relation Extraction"
+  alt_url: ""
+
+paper_32:
+  authors: "Phillip JK Christoffersen; Andrew C Li; Rodrigo A Toro Icarte; Sheila A. McIlraith"
+  title: "Learning Symbolic Representations for Reinforcement Learning of Non-Markovian Behavior"
+  alt_url: ""
+
+paper_33:
+  authors: "Osama F Rama; Alessandra Russo; Krysia Broda"
+  title: "An Architecture For Relational Learning Through Iterative Search Over Hypothesis Space"
+  alt_url: ""
+
+paper_34:
+  authors: "Sheila A. McIlraith; Le—n Illanes; Rodrigo Toro Icarte"
+  title: "Symbolic Plans as High-Level Instructions for Reinforcement Learning"
+  alt_url: ""
+
+paper_35:
+  authors: "Jun Yan; Mrigank Raman; Tianyu Zhang; Ryan A. Rossi; Handong Zhao; Sungchul Kim; Nedim Lipka; Xiang Ren"
+  title: "Learning Contextualized Knowledge Structures for Commonsense Reasoning"
+  alt_url: ""
+
+paper_36:
+  authors: "Mrigank Raman; Siddhant Agarwal; Peifeng Wang; Xiang Ren"
+  title: "Learning to Deceive Knowledge Graph Augmented Models via Targeted Perturbation"
+  alt_url: ""
