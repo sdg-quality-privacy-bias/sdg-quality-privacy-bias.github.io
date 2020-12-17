@@ -1,77 +1,48 @@
-ybengio:
-    name: "Yoshua Bengio"
-    url: "https://yoshuabengio.org/"
-    affiliation: "Mila, Université de Montréal"
-    img: "yoshua.jpg"
-    bio: "Yoshua Bengio is Professor in the Computer Science and Operations Research departments at U. Montreal, founder and scientific director of Mila and of IVADO. He is a Fellow of the Royal Society of London and of the Royal Society of Canada, has received a Canada Research Chair and a Canada CIFAR AI Chair and is a recipient of the 2018 Turing Award for pioneering deep learning, is an officer of the Order of Canada, a member of the NeurIPS advisory board, co-founder and member of the board of the ICLR conference, and program director of the CIFAR program on Learning in Machines and Brains. His goal is to contribute to uncovering the principles giving rise to intelligence through learning, as well as favour the development of AI for the benefit of all."
-oetzioni:
-    name: "Oren Etzioni"
-    url: "https://allenai.org/team/orene/"
-    affiliation: "Allen Institute for Artificial Intelligence (AI2)"
-    img: "oetzioni.jpg"
-    bio: "Dr. Oren Etzioni is Chief Executive Officer at AI2. He has been a Professor at the University of Washington’s Computer Science department since 1991. His awards include Seattle’s Geek of the Year (2013), and he has founded or co-founded several companies, including Farecast (acquired by Microsoft). He has written over 100 technical papers, as well as commentary on AI for The New York Times, Wired, and Nature. He helped to pioneer meta-search, online comparison shopping, machine reading, and Open Information Extraction."
-hji:
-  name: "Heng Ji"
-  url: "http://blender.cs.illinois.edu/hengji.html"
-  affiliation: "University of Illinois at Urbana-Champaign"
-  img: "hji.png"
-  bio: "Heng Ji is a professor at Computer Science Department, and an affiliated faculty member at Electrical and Computer Engineering Department of University of Illinois at Urbana-Champaign. She is also an Amazon Scholar. She received her B.A. and M. A. in Computational Linguistics from Tsinghua University, and her M.S. and Ph.D. in Computer Science from New York University. Her research interests focus on Natural Language Processing, especially on Multimedia Multilingual Information Extraction, Knowledge Base Population and Knowledge-driven Generation. She was selected as \"Young Scientist\" and a member of the Global Future Council on the Future of Computing by the World Economic Forum in 2016 and 2017. The awards she received include \"AI's 10 to Watch\" Award by IEEE Intelligent Systems in 2013, NSF CAREER award in 2009, Google Research Award in 2009 and 2014, IBM Watson Faculty Award in 2012 and 2014 and Bosch Research Award in 2014-2018. She was invited by the Secretary of the U.S. Air Force and AFRL to join Air Force Data Analytics Expert Panel to inform the Air Force Strategy 2030. She is the lead of many multi-institution projects and tasks, including the U.S. ARL projects on information fusion and knowledge networks construction, DARPA DEFT Tinker Bell team and DARPA KAIROS RESIN team. She has coordinated the NIST TAC Knowledge Base Population task since 2010. She has served as the Program Committee Co-Chair of many conferences including NAACL-HLT2018. She is elected as the North American Chapter of the Association for Computational Linguistics (NAACL) secretary 2020-2021. Her research has been widely supported by the U.S. government agencies (DARPA, ARL, IARPA, NSF, AFRL, DHS) and industry (Amazon, Google, Bosch, IBM, Disney)."
-jleskt:
-  name: "Jure Leskovec"
-  url: "https://cs.stanford.edu/~jure/"
-  affiliation: "Stanford University"
-  img: "jure.jpg"
-  bio: "Jure Leskovec is an associate professor of Computer Science at Stanford University, the Chief Scientist at Pinterest, and an Investigator at the Chan Zuckerberg Biohub. He was the co-founder of a machine learning startup Kosei, which was later acquired by Pinterest. Leskovec's research area is machine learning and data science for complex, richly-labeled relational structures, graphs, and networks for systems at all scales, from interactions of proteins in a cell to interactions between humans in a society. Applications include commonsense reasoning, recommender systems, social network analysis, computational social science, and computational biology with an emphasis on drug discovery. This research has won several awards including a Lagrange Prize, Microsoft Research Faculty Fellowship, the Alfred P. Sloan Fellowship, and numerous best paper and test of time awards. It has also been featured in popular press outlets such as the New York Times and the Wall Street Journal. Leskovec received his bachelor's degree in computer science from University of Ljubljana, Slovenia, PhD in machine learning from Carnegie Mellon University and postdoctoral training at Cornell University. "
-vlin:
-  name: "Victoria Lin"
-  url: "http://victorialin.net/"
-  affiliation: "Salesforce Research"
-  img: "victoria.jpg"
-  bio: "Victoria Lin is a senior research scientist at Salesforce AI Research in Palo Alto. Her primary research interests center around the intersection of natural language and structured data, which include jointly reasoning over and translation between the two modalities. Lately she has been focusing on natural language based database querying, which requires the understanding of user utterances grounded in complex database structures. Prior to joining Salesforce in 2017, she was a graduate student in computer science at the University of Washington, where she introduced NL2Bash, a popular benchmark for building natural language shells."
-rockt:
-  name: "Tim Rocktäschel"
-  url: "https://rockt.github.io/"
-  affiliation: "Facebook AI Research"
-  img: "rockt.jpg"
-  bio: "Tim is a Research Scientist at Facebook AI Research (FAIR) London and a Lecturer at the Centre for Artificial Intelligence in the Department of Computer Science at University College London (UCL). Prior to that, he was a Postdoctoral Researcher in Reinforcement Learning at the University of Oxford, a Junior Research Fellow in Computer Science at Jesus College, and a Stipendiary Lecturer in Computer Science at Hertford College. Tim obtained his Ph.D. from UCL under the supervision of Sebastian Riedel, and was awarded a Microsoft Research Ph.D. Scholarship in 2013 and a Google Ph.D. Fellowship in 2017. His work focuses on developing agents that are intrinsically motivated to explore complex open world environments, and that learn to acquire and utilize commonsense, world and domain knowledge to systematically generalize to novel situations."
-jwu:
-  name: "Jiajun Wu"
-  url: "https://jiajunwu.com/"
-  affiliation: "Stanford University"
-  img: "jwu.jpg"
-  bio: "Jiajun Wu is an Assistant Professor of Computer Science at Stanford University, working on computer vision, machine learning, and computational cognitive science. Before joining Stanford, he was a Visiting Faculty Researcher at Google Research. He received his PhD in Electrical Engineering and Computer Science at Massachusetts Institute of Technology and undergraduate degrees in Computer Science and in Economics at Tsinghua University. Wu's research has been recognized through the ACM Doctoral Dissertation Award Honorable Mention, the MIT George M. Sprowls PhD Thesis Award in Artificial Intelligence and Decision-Making, the IROS Best Paper Award on Cognitive Robotics, and fellowships from Facebook, Nvidia, Samsung, and Adobe."
-kahneman:
-  name: "Daniel Kahneman"
-  url: "https://scholar.princeton.edu/kahneman"
-  affiliation: "Princeton University"
-  img: "kahneman.jpg"
-  bio: ""
-kautz:
-  name: "Henry Kautz"
-  url: "https://www.cs.rochester.edu/u/kautz/"
-  affiliation: "National Science Foundation & University of Rochester"
-  img: "kautz.jpg"
-  bio: ""
-lamb:
-  name: "Luís C. Lamb"
-  url: "http://www.inf.ufrgs.br/~lamb/"
-  affiliation: "UFRGS"
-  img: "lamb.png"
-  bio: ""
-marcus:
-  name: "Gary Marcus"
-  url: "http://garymarcus.com/"
-  affiliation: "NYU"
-  img: "gmarcus.jpg"
-  bio: ""
-rossi:
-  name: "Francesca Rossi"
-  url: "https://researcher.watson.ibm.com/researcher/view.php?person=ibm-Francesca.Rossi2"
-  affiliation: "IBM"
-  img: "rossi.jpg"
-rao:
-  name: "Subbarao Kambhampati"
-  url: "http://rakaposhi.eas.asu.edu/"
-  affiliation: "Arizona State University"
-  img: "rao.png"
-  bio: ""
+MSchaar:
+    name: "Mihaela van der Schaar"
+    url: "https://www.vanderschaar-lab.com/"
+    affiliation: "University of Cambridge, The Alan Turing Institute, UCLA"
+    img: ""
+    bio: "Mihaela van der Schaaris John Humphrey Plummer Professor of Machine Learning, Artificial Intelligence and Medicine at the University of Cambridge, a Turing Faculty Fellow at The Alan Tur-ing Institute in London, and a Chancellor’s Professor at UCLA. Mihaela was elected IEEE Fellow in 2009. She has received numerous awards, including the Oon Prize on Preventative Medicine fromthe University of Cambridge (2018), an NSF Career Award (2004), 3 IBM Faculty Awards, the IBM Exploratory Stream Analytics Innovation Award, the Philips Make a Difference Award and severalbest paper awards, including the IEEE Darlington Award. Mihaela’s work has also led to 35 USApatents (many widely cited and adopted in standards) and 45+ contributions to international stan-dards for which she received 3 International ISO (International Organization for Standardization) Awards."
+
+JKautz:
+    name: "Jan Kautz"
+    url: "https://jankautz.com/"
+    affiliation: "NVIDIA"
+    img: ""
+    bio: "Jan Kautz is VP of Learning and Perception Research at NVIDIA. Jan and his team pursue fundamental research in the areas of computer vision and deep learning, including visual perception, geometric vision, generative models, and efficient deep learning. His team's work has been recognized with various awards and has been regularly featured in the media. Before joining NVIDIA in 2013, Jan was a tenured faculty member at University College London. He holds a BSc in Computer Science from the University of Erlangen-Nürnberg (1999), an MMath from the University of Waterloo (1999), received his PhD from the Max-Planck-Institut für Informatik (2003), and worked as a post-doctoral researcher at the Massachusetts Institute of Technology (2003-2006)."
+
+SDieleman:
+    name: "Sander Dieleman"
+    url: "https://benanne.github.io/"
+    affiliation: "DeepMind"
+    img: ""
+    bio: "Sander Dieleman is a research scientist at DeepMind in London, UK, where he has worked on the AlphaGo and WaveNet projects. His research interests include generative modelling and representation learning in the audio and visual domains, with a particular focus on music, as well as recommender systems and equivariance in neural networks. He obtained his Ph.D. in Computer Science from Ghent University in 2016, working on feature learning and deep learning techniques for learning hierarchical representations of musical audio signals."
+
+MVeloso:
+    name: "Manuela M. Veloso"
+    url: "http://www.cs.cmu.edu/~mmv/"
+    affiliation: "J.P.Morgan, Carnegie Mellon University"
+    img: ""
+    bio: "Manuela M. Veloso joined J.P.Morgan as Managing Director to create and head the Artificial Intelligence Research Lab. With her group, she investigates opportunities for automated, optimized, and novel approaches to AI in Finance. Veloso is on leave from Carnegie Mellon University (CMU) as Herbert A. Simon University Professor in the School of Computer Science, and where she was the Head of the Machine Learning Department. She researches in AI, Robotics, and Machine Learning. At CMU, she founded and directs the CORAL research laboratory, for the study of autonomous agents that Collaborate, Observe, Reason, Act, and Learn. Veloso and her students research a variety of autonomous robots, including mobile service robots and soccer robots.  Veloso is Fellow of the AAAI, AAAS, ACM, and IEEE. She is Einstein Chair Professor of the Chinese National Academy of Science, the co-founder and past President of RoboCup, and past President of AAAI. As of now, Professor Veloso has graduated 40 PhD students and co-authored more than 300 journal and conference publications."
+
+SErmon:
+    name: "Stefano Ermon"
+    url: "https://cs.stanford.edu/~ermon/"
+    affiliation: "Stanford University"
+    img: ""
+    bio: "Stefano Ermon is an Assistant Professor of Computer Science in the CS Department at Stanford University, where he is affiliated with the Artificial Intelligence Laboratory, and a fellow of the Woods Institute for the Environment. His research is centered on techniques for probabilistic modeling of data and is motivated by applications in the emerging field of computational sustainability. He has won several awards, including four Best Paper Awards (AAAI, UAI and CP), a NSF Career Award, ONR and AFOSR Young Investigator Awards, a Sony Faculty Innovation Award, a Hellman Faculty Fellowship, Microsoft Research Fellowship, Sloan Fellowship, and the IJCAI Computers and Thought Award. Stefano earned his Ph.D. in Computer Science at Cornell University in 2015."
+   
+JYoon:
+    name: "Jinsung Yoon"
+    url: "https://sites.google.com/view/jinsungyoon"
+    affiliation: "Google Cloud AI"
+    img: ""
+    bio: "Jinsung Yoon is a research scientist at Google Cloud AI. Prior to Google Cloud, Jinsung was a PhD student in the Electrical and Computer Engineering Department at UCLA. He received his PhD from UCLA in 2020 and his PhD thesis was on machine learning for medicine (titled as End-to-End Machine Learning Frameworks for Medicine: Data Imputation, Model Interpretation and Synthetic Data Generation). His main research interests have been on synthetic data generation with privacy guarantee, data imputation, model interpretation, and transfer learning using adversarial learning and reinforcement learning frameworks. He has published various papers and served as a reviewer in top-tier machine learning conferences (NeurIPS, ICML, ICLR, AAAI)."
+
+EDenton:
+    name: "Emily Denton"
+    url: "https://cephaloponderer.com/"
+    affiliation: "Google’s Ethical AI team"
+    img: ""
+    bio: "Emily Denton is a Research Scientist on Google’s Ethical AI team where she examines the societal impacts of AI technology. Her recent research centers on critically examining the norms, values, and work practices that structure the development and use of machine learning datasets. Prior to joining Google, Emily received her PhD in machine learning from the Courant Institute of Mathematical Sciences at New York University, where she focused on unsupervised learning and generative modeling of images and video."
