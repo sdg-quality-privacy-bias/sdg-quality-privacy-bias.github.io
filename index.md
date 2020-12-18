@@ -28,7 +28,7 @@ This workshop aims at the intersection of these challenges of synthetic data gen
 <hr>
 
 # Speakers & Panelists
-<!-- <div class="container" style="margin-top: 20px;margin-bottom: 0px;">
+<div class="container" style="margin-top: 20px;margin-bottom: 0px;">
   <div class="row">
   {% for p in site.data.speakers %}
   {% if forloop.index<=5 %}
@@ -54,21 +54,21 @@ This workshop aims at the intersection of these challenges of synthetic data gen
   {% endfor %}
   </div>
 <a href="speakers">More Info</a>
-</div> -->
+</div>
 
 <hr>
 
 # Organizers
 
 <!-- prettier-ignore -->
-<!-- <div class="container" style="margin-top: 25px;margin-bottom: 40px;">
+<div class="container" style="margin-top: 25px;margin-bottom: 40px;">
   <div class="row">
     {% for p in site.data.organizers %}
     {% capture id %}{{ p[0] }}{% endcapture %}
     {% include profile.html p=p %}
     {% endfor %}
   </div>
-</div> -->
+</div>
 <hr>
 
 # Program Committee
