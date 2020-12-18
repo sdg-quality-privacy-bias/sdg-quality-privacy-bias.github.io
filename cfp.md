@@ -12,13 +12,13 @@ A powerful solution that can address both of these challenging scenarios is gene
 
 Despite the substantial benefits from using synthetic data, the process of synthetic data generation is still an ongoing technical challenge. Although the two scenarios of limited data and privacy concerns share similar technical challenges such as quality and fairness, they are often studied separately. We invite researchers to submit papers that discuss challenges and advances in synthetic data generation, including but not limited to the following topics.
 
--How can we evaluate the quality of synthetically generated datasets?
--How can we handle mixed-type datasets such as tabular data with both categorical and continuous variables?
--How can we generate synthetic samples to augment rare samples or limited labeled data?
--How can we address privacy violations, measure privacy leakage, and provide probable privacy guarantees?
--How can we retain semantic meaning of original samples in the synthetic data?
--What are the right datasets/applications/benchmarks to propel this research area forward?
--How can we measure and mitigate biases, and thereby ensure fairness in data synthesis?
+* How can we evaluate the quality of synthetically generated datasets?
+* How can we handle mixed-type datasets such as tabular data with both categorical and continuous variables?
+* How can we generate synthetic samples to augment rare samples or limited labeled data?
+* How can we address privacy violations, measure privacy leakage, and provide probable privacy guarantees?
+* How can we retain semantic meaning of original samples in the synthetic data?
+* What are the right datasets/applications/benchmarks to propel this research area forward?
+* How can we measure and mitigate biases, and thereby ensure fairness in data synthesis?
 
 
 ### Important Dates 
@@ -31,20 +31,16 @@ Despite the substantial benefits from using synthetic data, the process of synth
 
 ### Submission Requirements
 
-Submissions to KR2ML 2020 are limited to 4 pages of content, but may contain an unlimited number of pages for references and appendices. The latter may not necessarily be read by the reviewers. We request and recommend that authors rely on the supplementary material only to include minor details (e.g., hyperparameter settings, reproducibility information, etc.) that do not fit in the 4 pages. The submission process is double-blind.
-
-All submissions must be formatted with LaTeX using the [NeurIPS paper format (adapted)](img/KR2ML2020_template.zip).
-
-All accepted papers will be presented in a virtual poster session, and some will be selected for oral presentation. We welcome articles currently under review or papers planned for publication elsewhere. However, papers that have been published at an ML conference should not be submitted. Accepted papers will be published on the KR2ML homepage, but are to be considered non-archival. 
+Submissions in the form of extended abstracts must be at most 4 pages long (not including references; additional supplementary material may be submitted but may be ignored by reviewers), anonymized, and adhere to the ICLR format. We encourage submissions of work that are new to the synthetic data generation community. Submissions solely based on work that has been previously published in machine learning conferences or relevant venues are not suitable for the workshop. On the other hand, we allow submission of works currently under submission and relevant works recently published in relevant venues. The workshop will not have formal proceedings, but authors of accepted abstracts can choose to have a link to arxiv or a pdf added on the workshop webpage. 
 
 Submission Link: [XXX](XXX)
 
 Please email any enquiries to [XXX](mailto:XXX)
 
-### Best Paper Awards
+<!-- ### Best Paper Awards
 Three best paper awards will selected, based on scientific merit, impact, and clarity. A $500.00 USD cash prize will be awarded to the 1st prize best paper. Best paper awards are nominated by program committee and judged by the Best Paper award committee. 
 
 Award sponsor:<br>
-<a href='https://www.amazon.science/'><img src="{{site.url}}/img/amazon_science.png" height="140px"></a>
+<a href='https://www.amazon.science/'><img src="{{site.url}}/img/amazon_science.png" height="140px"></a> -->
 
 
