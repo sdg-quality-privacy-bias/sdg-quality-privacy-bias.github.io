@@ -2,21 +2,21 @@ Schaar:
     name: "Mihaela van der Schaar"
     url: "https://www.vanderschaar-lab.com/"
     affiliation: "University of Cambridge, The Alan Turing Institute, UCLA"
-    img: "Schaar.jpeg"
+    img: "Schaar.jpg"
     bio: "Mihaela van der Schaaris John Humphrey Plummer Professor of Machine Learning, Artificial Intelligence and Medicine at the University of Cambridge, a Turing Faculty Fellow at The Alan Tur-ing Institute in London, and a Chancellor’s Professor at UCLA. Mihaela was elected IEEE Fellow in 2009. She has received numerous awards, including the Oon Prize on Preventative Medicine fromthe University of Cambridge (2018), an NSF Career Award (2004), 3 IBM Faculty Awards, the IBM Exploratory Stream Analytics Innovation Award, the Philips Make a Difference Award and severalbest paper awards, including the IEEE Darlington Award. Mihaela’s work has also led to 35 USApatents (many widely cited and adopted in standards) and 45+ contributions to international stan-dards for which she received 3 International ISO (International Organization for Standardization) Awards."
 
 Kautz:
     name: "Jan Kautz"
     url: "https://jankautz.com/"
     affiliation: "NVIDIA"
-    img: "Kautz.jpeg"
+    img: "Kautz.jpg"
     bio: "Jan Kautz is VP of Learning and Perception Research at NVIDIA. Jan and his team pursue fundamental research in the areas of computer vision and deep learning, including visual perception, geometric vision, generative models, and efficient deep learning. His team's work has been recognized with various awards and has been regularly featured in the media. Before joining NVIDIA in 2013, Jan was a tenured faculty member at University College London. He holds a BSc in Computer Science from the University of Erlangen-Nürnberg (1999), an MMath from the University of Waterloo (1999), received his PhD from the Max-Planck-Institut für Informatik (2003), and worked as a post-doctoral researcher at the Massachusetts Institute of Technology (2003-2006)."
 
 Dieleman:
     name: "Sander Dieleman"
     url: "https://benanne.github.io/"
     affiliation: "DeepMind"
-    img: ""
+    img: "Dieleman.jpeg"
     bio: "Sander Dieleman is a research scientist at DeepMind in London, UK, where he has worked on the AlphaGo and WaveNet projects. His research interests include generative modelling and representation learning in the audio and visual domains, with a particular focus on music, as well as recommender systems and equivariance in neural networks. He obtained his Ph.D. in Computer Science from Ghent University in 2016, working on feature learning and deep learning techniques for learning hierarchical representations of musical audio signals."
 
 MVeloso:
@@ -44,5 +44,5 @@ Denton:
     name: "Emily Denton"
     url: "https://cephaloponderer.com/"
     affiliation: "Google’s Ethical AI team"
-    img: "Denton.jpeg"
+    img: "Denton.png"
     bio: "Emily Denton is a Research Scientist on Google’s Ethical AI team where she examines the societal impacts of AI technology. Her recent research centers on critically examining the norms, values, and work practices that structure the development and use of machine learning datasets. Prior to joining Google, Emily received her PhD in machine learning from the Courant Institute of Mathematical Sciences at New York University, where she focused on unsupervised learning and generative modeling of images and video."
