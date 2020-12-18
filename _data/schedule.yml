@@ -1,168 +1,113 @@
-teasers:
-  event: "Poster Teasers"
-  start: "08:40"
-  type: "General"
 opening:
-  event: "Opening"
-  start: "09:00"
+  event: "Opening Remarks"
+  start: "08:30"
   type: "General"
-sess1:
-  event: "Session 1"
-  start: ""
-  type: "Session"
-oetzioni:
-  event: "oetzioni"
-  title: "Revisiting McCarthy's Advice Taker"
-  start: "09:05"
+Schaar:
+  event: "Schaar"
+  title: "Can machine learning revolutionize healthcare?
+Synthetic data may be the answer"
+  start: "08:40"
   type: "Invited"
-vlin:
-  event: "vlin"
-  title: "Bridging Textual and Tabular Data: Is Attention All We Need?"
-  start: "09:35"
-  type: "Invited"
-rockt:
-  event: "rockt"
-  title: "A Shot at Bridging the Knowledge Gap in Reinforcement Learning"
-  start: "10:05"
-  type: "Invited"
-qa1:
-  event: "QA"
-  start: "10:35"
-  type: "General"
-break1:
-  event: "Break"
-  start: "10:50"
-  type: "Break"
-sess2:
-  event: "Session 2"
-  start: ""
-  type: "Session"
-# contrib2:
-#   event: "paper_13"
-#   start: "8:50"
-#   type: "Contributed"
-# contrib3:
-#   event: "paper_18"
-#   start: "9:05"
-#   type: "Contributed"
-# spotlightsA:
-#   event: "Poster Spotlights A"
-#   start: "9:20"
-#   type: "Spotlights"
-jleskt:
-  event: "jleskt"
-  title: "Reasoning in Knowledge Graphs using Embeddings"
-  start: "11:05"
-  type: "Invited"
-hji:
-  event: "hji"
-  title: "Bring Structures and Symbols back to Knowledge Representation"
-  start: "11:35"
-  type: "Invited"
-jwu:
-  event: "jwu"
-  title: "Neuro-Symbolic Visual Concept Learning"
-  start: "12:05"
-  type: "Invited"
-qa2:
-  event: "QA"
-  start: "12:35"
-  type: "General"
-break2:
-  event: "Poster Session + Chats"
-  start: "12:50"
-  type: "General"
-sess3:
-  event: "Session 3"
-  start: ""
-  type: "Session"
-panel1:
-  event: "How a historical perspective on artificial and human intelligence can influence AI going ahead."
-  speakers: "Yoshua Bengio, Daniel Kahneman, Henry Kautz, Luis Lamb, Gary Marcus, Francesca Rossi."
-  start: "14:00"
-  type: "Panel"
 contrib0:
-  event: "Learning to Deceive Knowledge Graph Augmented Models via Targeted Perturbation."
-  author: "Mrigank Raman"
-  start: "14:45"
+  event: "contrib0"
+  title: "TBA"
+  start: "09:10"
   type: "Contributed"
 contrib1:
-  event: "Symbolic Plans as High-Level Instructions for Reinforcement Learning (Abridged)."
-  author: "Leon Illanes"
-  start: "15:00"
+  event: "contrib1"
+  title: "TBA"
+  start: "09:25"
   type: "Contributed"
-contrib2:
-  event: "Latent Execution-Guided Reasoning for Multi-Hop Question Answering on Knowledge Graphs."
-  author: "Hongyu Ren"
-  start: "15:15"
-  type: "Contributed"
-qa3:
-  event: "QA"
-  start: "15:30"
-  type: "General"
-break3:
-  event: "Break"
-  start: "15:45"
-  type: "Break"
-# contrib7:
-#   event: "paper_35"
-#   start: "11:45"
-#   type: "Contributed"
-# svivek:
-#   event: "svivek"
-#   start: "12:00"
-#   type: "Invited"
-# lunch:
-#   event: "Lunch"
-#   start: "12:30"
-#   type: "Break"
-# frossi:
-#   event: "frossi"
-#   start: "2:00"
-#   type: "Invited"
-# contrib8:
-#   event: "paper_52"
-#   start: "2:30"
-#   type: "Contributed"
-# contrib9:
-#   event: "paper_19"
-#   start: "2:45"
-#   type: "Contributed"
-# contrib10:
-#   event: "paper_4"
-#   start: "3:00"
-#   type: "Contributed"
-# spotlightsB:
-#   event: "Poster Spotlights B"
-#   start: "3:15"
-#   type: "Spotlights"
-# break:
-#   event: "Coffee + Poster Session"
-#   start: "3:30"
-#   type: "Break"
-# guyvdb:
-#   event: "yejin"
-#   start: "4:15"
-#   type: "Invited"
-# yejin:
-#   event: "guyvdb"
-#   start: "4:45"
-#   type: "Invited"
-sess4:
-  event: "Session 4"
-  start: ""
+sess1:
+  event: "Coffee Break + Posters"
+  start: "9.40"
   type: "Session"
-ybengio:
-  event: "ybengio"
-  title: "Deep Learning of Conscious Processing Over Verbalizable Knowledge"
-  start: "16:00"
+Kautz:
+  event: "Kautz"
+  title: "Generative Models for Image Synthesis"
+  start: "10:30"
   type: "Invited"
+contrib2:
+  event: "contrib2"
+  title: "TBA"
+  start: "11.00"
+  type: "Contributed"
+contrib3:
+  event: "contrib3"
+  title: "TBA"
+  start: "11:15"
+  type: "Contributed"
+sess2:
+  event: "Coffee Break + Posters"
+  start: "11.30"
+  type: "Session"
+contrib4:
+  event: "contrib4"
+  title: "TBA"
+  start: "11:45"
+  type: "Contributed"
+Yoon:
+  event: "Yoon"
+  title: "Differentially Private Synthetic Data Generations Using
+Generative Adversarial Networks"
+  start: "12:00"
+  type: "Invited"
+sess3:
+  event: "Lunch Break + Posters"
+  start: "12.30"
+  type: "Session"
+Veloso:
+  event: "Veloso"
+  title: "Towards Financial Synthetic Data"
+  start: "1:30"
+  type: "Invited"
+contrib5:
+  event: "contrib5"
+  title: "TBA"
+  start: "2:00"
+  type: "Contributed"
+contrib6:
+  event: "contrib6"
+  title: "TBA"
+  start: "2:15"
+  type: "Contributed"
+sess3:
+  event: "Coffee Break + Posters"
+  start: "2.30"
+  type: "Session"
+contrib7:
+  event: "contrib7"
+  title: "TBA"
+  start: "2:45"
+  type: "Contributed"
+Ermon:
+  event: "Ermon"
+  title: "Bias and generalization of deep generative models"
+  start: "3:00"
+  type: "Invited"
+sess4:
+  event: "Coffee Break + Posters"
+  start: "3.30"
+  type: "Session"
+
+Dieleman:
+  event: "Dieleman"
+  title: "Generative Modeling for Music Generation"
+  start: "4:20"
+  type: "Invited"
+
+Denton:
+  event: "Denton"
+  title: "Ethical Considerations of Generative AI"
+  start: "4:40"
+  type: "Invited"
+
 panel2:
-  event: "Where and how can KRR benefit ML, and what should be explored?"
-  speakers: "Oren Etzioni, Heng Ji, Victoria Lin, Jiajun Wu, Subbarao Kambhampati."
-  start: "16:35"
+  event: ""
+  speakers: "All invited speakers"
+  start: "5:00"
   type: "Panel"
 closing:
-  event: "Closing Remarks"
-  start: "17:20"
+  event: "Closing Remarks and Award Ceremony"
+  start: "5:55"
   type: "General"

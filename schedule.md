@@ -10,7 +10,7 @@ use-site-title: true
 #### Friday, May 8, 2021 
 #### All times are in PST (UTC -8)
 <!-- #### Location: West 109 + 110, Area West Level 1 -->
-<!-- #### Live Video Stream: [link](https://slideslive.com/neurips/neurips-2019-west-109-110-live) -->
+<!-- #### Live Video Stream: [link](https://XXX) -->
 
 
 <div class="container">
