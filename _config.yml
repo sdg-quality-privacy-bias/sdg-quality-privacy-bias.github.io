@@ -14,7 +14,7 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: Synthetic Data Generation Workshop at ICLR'21
+title: SDG Workshop at ICLR'21
 
 # Short description of your site
 description: Describe our workshop
@@ -76,7 +76,7 @@ author:
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
   # rss: true
-  email: "xxxs@gmail.com"
+  email: "saydore@amazon.com"
   # facebook: daattali
   # github: daattali
   # twitter: daattali
@@ -96,10 +96,10 @@ social-network-links:
 
 # Select which share links to show in posts
 share-links-active:
-  twitter: true
-  facebook: true
+  twitter: false
+  facebook: false
   google: false
-  linkedin: true
+  linkedin: false
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer

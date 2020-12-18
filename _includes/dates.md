@@ -1,4 +1,4 @@
 | ------------- |:-------------:|
-| **Submission** | October 09, 2020 (midnight Pacific Time) |
-| **Notification** | October 30, 2020 |
-| **Workshop** | [December 11, 2020](https://nips.cc/Conferences/2020/Schedule?showEvent=16122) |
+| **Submission** | February 26, 2021 (Anywhere on Earth)|
+| **Notification** |  March 26, 2021|
+| **Workshop** | [May 8, 2021](XXX) |
