@@ -23,8 +23,8 @@ use-site-title: true
             <!-- {% endif %} -->
         <!-- </li> -->
     <!-- {% endfor %} -->
-<h3>Learning over Knowledge Graphs</h3>
-1. <b>Latent Execution-Guided Reasoning for Multi-Hop Question Answering on Knowledge Graphs</b> (spotlight paper)<br><i>Hongyu Ren; Hanjun Dai; Bo Dai; Xinyun Chen; Jure Leskovec; Denny Zhou</i>
+<h3>TBA</h3>
+<!-- 1. <b>Latent Execution-Guided Reasoning for Multi-Hop Question Answering on Knowledge Graphs</b> (spotlight paper)<br><i>Hongyu Ren; Hanjun Dai; Bo Dai; Xinyun Chen; Jure Leskovec; Denny Zhou</i>
 [<a href="{{ site.baseurl }}/papers/KR2ML_25_paper.pdf">Paper</a>][<a href="{{ site.baseurl }}/papers/KR2ML_25_poster.pdf">Poster</a>]
 <br>
 2. <b>Learning to Deceive Knowledge Graph Augmented Models via Targeted Perturbation</b> (spotlight paper)<br><i>
@@ -107,7 +107,7 @@ Pashootan Vaezipoor; Gil Lederman; Yuhuai Wu; Chris Maddison; Roger B Grosse; Sa
 <br>  
 20. <b>Interpretable Sequence Classification via Discrete Optimization (Abridged Report)</b><br><i>
 Maayan Shvo; Andrew Li; Rodrigo Toro Icarte; Sheila A. McIlraith</i>
-[<a href="{{ site.baseurl }}/papers/KR2ML_22_paper.pdf">Paper</a>][<a href="{{ site.baseurl }}/papers/KR2ML_22_poster.pdf">Poster</a>]
+[<a href="{{ site.baseurl }}/papers/KR2ML_22_paper.pdf">Paper</a>][<a href="{{ site.baseurl }}/papers/KR2ML_22_poster.pdf">Poster</a>] -->
 <br>  
   </ol>
 </div>
