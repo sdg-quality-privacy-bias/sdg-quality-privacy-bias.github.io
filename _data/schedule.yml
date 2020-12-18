@@ -9,12 +9,12 @@ Synthetic data may be the answer"
   start: "08:40"
   type: "Invited"
 contrib0:
-  event: "contrib0"
+  event: "TBA"
   title: "TBA"
   start: "09:10"
   type: "Contributed"
 contrib1:
-  event: "contrib1"
+  event: "TBA"
   title: "TBA"
   start: "09:25"
   type: "Contributed"
@@ -28,12 +28,12 @@ Kautz:
   start: "10:30"
   type: "Invited"
 contrib2:
-  event: "contrib2"
+  event: "TBA"
   title: "TBA"
   start: "11.00"
   type: "Contributed"
 contrib3:
-  event: "contrib3"
+  event: "TBA"
   title: "TBA"
   start: "11:15"
   type: "Contributed"
@@ -42,7 +42,7 @@ sess2:
   start: "11.30"
   type: "Session"
 contrib4:
-  event: "contrib4"
+  event: "TBA"
   title: "TBA"
   start: "11:45"
   type: "Contributed"
@@ -62,12 +62,12 @@ Veloso:
   start: "1:30"
   type: "Invited"
 contrib5:
-  event: "contrib5"
+  event: "TBA"
   title: "TBA"
   start: "2:00"
   type: "Contributed"
 contrib6:
-  event: "contrib6"
+  event: "TBA"
   title: "TBA"
   start: "2:15"
   type: "Contributed"
@@ -76,7 +76,7 @@ sess3:
   start: "2.30"
   type: "Session"
 contrib7:
-  event: "contrib7"
+  event: "TBA"
   title: "TBA"
   start: "2:45"
   type: "Contributed"
