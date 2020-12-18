@@ -33,9 +33,9 @@ Despite the substantial benefits from using synthetic data, the process of synth
 
 Submissions in the form of extended abstracts must be at most 4 pages long (not including references; additional supplementary material may be submitted but may be ignored by reviewers), anonymized, and adhere to the ICLR format. We encourage submissions of work that are new to the synthetic data generation community. Submissions solely based on work that has been previously published in machine learning conferences or relevant venues are not suitable for the workshop. On the other hand, we allow submission of works currently under submission and relevant works recently published in relevant venues. The workshop will not have formal proceedings, but authors of accepted abstracts can choose to have a link to arxiv or a pdf added on the workshop webpage. 
 
-Submission Link: [XXX](XXX)
+Submission Link: [https://cmt3.research.microsoft.com/SDGICLRW2021](https://cmt3.research.microsoft.com/SDGICLRW2021)
 
-Please email any enquiries to [XXX](mailto:XXX)
+Please email any enquiries to [email](mailto:saydore@amazon.com)
 
 <!-- ### Best Paper Awards
 Three best paper awards will selected, based on scientific merit, impact, and clarity. A $500.00 USD cash prize will be awarded to the 1st prize best paper. Best paper awards are nominated by program committee and judged by the Best Paper award committee. 
