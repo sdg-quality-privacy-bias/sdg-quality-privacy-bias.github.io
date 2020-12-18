@@ -8,7 +8,7 @@ use-site-title: true
 # Speakers
 <div class="container" style="margin-top: 25px;margin-bottom: 40px;">
   {% for p in site.data.speakers %}
-  {% if forloop.index<5 %}
+  {% if forloop.index<8 %}
   <div class="row">
     <div class="col-sm">
     {% capture id %}{{ p[0] }}{% endcapture %}
