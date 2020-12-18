@@ -1,7 +1,7 @@
 ---
 layout: page
-title: KR2ML
-subtitle: Knowledge Representation & Reasoning Meets Machine Learning
+title: Synthetic Data Generation
+subtitle: Quality, Privacy, Bias
 use-site-title: true
 ---
 
