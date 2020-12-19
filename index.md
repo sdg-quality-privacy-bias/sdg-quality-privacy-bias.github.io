@@ -61,12 +61,13 @@ This workshop aims at the intersection of these challenges of synthetic data gen
 # Organizers
 
 <!-- prettier-ignore -->
-<div class="container" style="margin-top: 25px;margin-bottom: 40px;">
+<div class="container" style="margin-top: 20px;margin-bottom: 0px;">
   <div class="row">
     {% for p in site.data.organizers %}
     {% capture id %}{{ p[0] }}{% endcapture %}
     {% if forloop.index<=4 %}
     {% include profile.html p=p %}
+    {% endif %}
     {% endfor %}
   </div>
   <div class="row">
