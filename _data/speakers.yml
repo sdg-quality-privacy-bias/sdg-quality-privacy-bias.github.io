@@ -1,3 +1,9 @@
+Veloso:
+    name: "Manuela M. Veloso"
+    url: "http://www.cs.cmu.edu/~mmv/"
+    affiliation: "J.P.Morgan, Carnegie Mellon University"
+    img: "Veloso.jpg"
+    bio: "Manuela M. Veloso joined J.P.Morgan as Managing Director to create and head the Artificial Intelligence Research Lab. With her group, she investigates opportunities for automated, optimized, and novel approaches to AI in Finance. Veloso is on leave from Carnegie Mellon University (CMU) as Herbert A. Simon University Professor in the School of Computer Science, and where she was the Head of the Machine Learning Department. She researches in AI, Robotics, and Machine Learning. At CMU, she founded and directs the CORAL research laboratory, for the study of autonomous agents that Collaborate, Observe, Reason, Act, and Learn. Veloso and her students research a variety of autonomous robots, including mobile service robots and soccer robots.  Veloso is Fellow of the AAAI, AAAS, ACM, and IEEE. She is Einstein Chair Professor of the Chinese National Academy of Science, the co-founder and past President of RoboCup, and past President of AAAI. As of now, Professor Veloso has graduated 40 PhD students and co-authored more than 300 journal and conference publications."
 Kautz:
     name: "Jan Kautz"
     url: "https://jankautz.com/"
@@ -10,12 +16,6 @@ Dieleman:
     affiliation: "DeepMind"
     img: "Dieleman.jpeg"
     bio: "Sander Dieleman is a research scientist at DeepMind in London, UK, where he has worked on the AlphaGo and WaveNet projects. His research interests include generative modelling and representation learning in the audio and visual domains, with a particular focus on music, as well as recommender systems and equivariance in neural networks. He obtained his Ph.D. in Computer Science from Ghent University in 2016, working on feature learning and deep learning techniques for learning hierarchical representations of musical audio signals."
-Veloso:
-    name: "Manuela M. Veloso"
-    url: "http://www.cs.cmu.edu/~mmv/"
-    affiliation: "J.P.Morgan, Carnegie Mellon University"
-    img: "Veloso.jpg"
-    bio: "Manuela M. Veloso joined J.P.Morgan as Managing Director to create and head the Artificial Intelligence Research Lab. With her group, she investigates opportunities for automated, optimized, and novel approaches to AI in Finance. Veloso is on leave from Carnegie Mellon University (CMU) as Herbert A. Simon University Professor in the School of Computer Science, and where she was the Head of the Machine Learning Department. She researches in AI, Robotics, and Machine Learning. At CMU, she founded and directs the CORAL research laboratory, for the study of autonomous agents that Collaborate, Observe, Reason, Act, and Learn. Veloso and her students research a variety of autonomous robots, including mobile service robots and soccer robots.  Veloso is Fellow of the AAAI, AAAS, ACM, and IEEE. She is Einstein Chair Professor of the Chinese National Academy of Science, the co-founder and past President of RoboCup, and past President of AAAI. As of now, Professor Veloso has graduated 40 PhD students and co-authored more than 300 journal and conference publications."
 Schaar:
     name: "Mihaela van der Schaar"
     url: "https://www.vanderschaar-lab.com/"
