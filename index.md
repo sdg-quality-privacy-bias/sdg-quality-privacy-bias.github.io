@@ -4,7 +4,7 @@ title: Synthetic Data Generation
 subtitle: Quality, Privacy, Bias
 use-site-title: true
 ---
-<!--<div class="sharethis-inline-share-buttons"></div> -->
+<!--<div class="sharethis-inline-share-buttons"></div>
 <meta name="thumbnail" content="./img/neurips-logo-new.jpg" /> -->
 
 # Overview
