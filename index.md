@@ -10,13 +10,14 @@ use-site-title: true
 # Overview
 
 Despite the substantial benefits from using synthetic data, the process of synthetic data generation is still an ongoing technical challenge. Although the two scenarios of limited data and privacy concerns share similar technical challenges such as quality and fairness, they are often studied separately.
-This workshop aims at the intersection of these challenges of synthetic data generation, and hopes to shine a light on the solutions that address these challenges. The 1st Synthetic Data Generation workshop will be a [virtual workshop at ICLR 2021](https://iclr.cc/Conferences/2021/Schedule?type=Workshop), May 8, 2021. Our goal is to advance the general discussion of the topic by highlighting contributions proposing innovative approaches integrating quality, privacy and bias aspects of synthetic data generation.
+This workshop aims at the intersection of these challenges of synthetic data generation, and hopes to shine a light on the solutions that address these challenges. The 1st Synthetic Data Generation workshop will be a [virtual workshop at ICLR 2021](https://iclr.cc/Conferences/2021/Schedule?showEvent=2125), May 8, 2021. Our goal is to advance the general discussion of the topic by highlighting contributions proposing innovative approaches integrating quality, privacy and bias aspects of synthetic data generation.
 
 
 | ------------- |:-------------:|
 | **Submission** |February 26, 2021 (Anywhere on Earth) |
 | **Notification** | March 26, 2021 |
-| **Submission link**| [link](https://cmt3.research.microsoft.com/SDGICLRW2021) 
+| **Submission link**| [link](https://cmt3.research.microsoft.com/SDGICLRW2021) |
+| **Workshop** | May 8, 2021 |
 
 <!-- * Thank you Amazon for ing a best paper award!
 * The 3 best papers will be presented in talks at the workshop! 
@@ -108,4 +109,4 @@ This workshop aims at the intersection of these challenges of synthetic data gen
 
 <hr>
 
-Contact: <saydore@amazon.com><email>
+Contact: [email](mailto:saydore@amazon.com)
