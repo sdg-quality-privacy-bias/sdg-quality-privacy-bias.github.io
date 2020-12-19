@@ -1,4 +1,5 @@
-<!-- Check if any share-links are active -->
+<!---
+
 {% assign any-share-links = false %}
 {% for links in site.share-links-active %}
   {% if links[1] == true %}
@@ -11,7 +12,7 @@
 <section id = "social-share-section">
   <span class="sr-only">Share: </span>
 
-<!---
+
   {% if site.share-links-active.twitter %}
     <a href="https://twitter.com/intent/tweet?text={{ page.title | url_encode }}+{{ site.url }}{{ page.url }}"
       class="btn btn-social-icon btn-twitter" title="Share on Twitter">
