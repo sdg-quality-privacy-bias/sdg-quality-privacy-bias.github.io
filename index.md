@@ -31,7 +31,7 @@ This workshop aims at the intersection of these challenges of synthetic data gen
 <div class="container" style="margin-top: 20px;margin-bottom: 0px;">
   <div class="row">
   {% for p in site.data.speakers %}
-  {% if forloop.index<=5 %}
+  {% if forloop.index<=4 %}
   {% capture id %}{{ p[0] }}{% endcapture %}
   {% include profile.html p=p %}
   {% endif %}
@@ -40,7 +40,7 @@ This workshop aims at the intersection of these challenges of synthetic data gen
   <div class="row">
   {% for p in site.data.speakers %}
   {% capture id %}{{ p[0] }}{% endcapture %}
-  {% if forloop.index>5 and forloop.index<=10%}
+  {% if forloop.index>4 and forloop.index<=10%}
   {% include profile.html p=p %}
   {% endif %}
   {% endfor %}
@@ -65,8 +65,17 @@ This workshop aims at the intersection of these challenges of synthetic data gen
   <div class="row">
     {% for p in site.data.organizers %}
     {% capture id %}{{ p[0] }}{% endcapture %}
+    {% if forloop.index<=4 and forloop.index<=10%}
     {% include profile.html p=p %}
     {% endfor %}
+  </div>
+  <div class="row">
+  {% for p in site.data.organizers %}
+  {% capture id %}{{ p[0] }}{% endcapture %}
+  {% if forloop.index>4 and forloop.index<=10%}
+  {% include profile.html p=p %}
+  {% endif %}
+  {% endfor %}
   </div>
 </div>
 <hr>
