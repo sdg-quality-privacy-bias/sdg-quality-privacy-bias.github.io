@@ -71,10 +71,10 @@ contrib6:
   title: "TBA"
   start: "2:15"
   type: "Contributed"
-sess3:
-  event: "Coffee Break + Posters"
-  start: "2.30"
-  type: "Session"
+# sess3:
+#   event: "Coffee Break + Posters"
+#   start: "2.30"
+#   type: "Session"
 # contrib7:
 #   event: "TBA"
 #   title: "TBA"
