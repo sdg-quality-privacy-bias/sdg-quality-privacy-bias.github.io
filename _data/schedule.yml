@@ -75,39 +75,36 @@ sess3:
   event: "Coffee Break + Posters"
   start: "2.30"
   type: "Session"
-contrib7:
-  event: "TBA"
-  title: "TBA"
-  start: "2:45"
-  type: "Contributed"
+# contrib7:
+#   event: "TBA"
+#   title: "TBA"
+#   start: "2:45"
+#   type: "Contributed"
 Ermon:
   event: "Ermon"
   title: "Bias and generalization of deep generative models"
-  start: "3:00"
+  start: "2:45"
   type: "Invited"
-sess4:
-  event: "Coffee Break + Posters"
-  start: "3.30"
-  type: "Session"
-
 Dieleman:
   event: "Dieleman"
   title: "Generative Modeling for Music Generation"
-  start: "4:20"
+  start: "3:15"
   type: "Invited"
-
+sess4:
+  event: "Coffee Break + Posters"
+  start: "3.45"
+  type: "Session"
 Denton:
   event: "Denton"
   title: "Ethical Considerations of Generative AI"
-  start: "4:40"
+  start: "4:00"
   type: "Invited"
-
 panel2:
   event: ""
   speakers: "All invited speakers"
-  start: "5:00"
+  start: "4:30"
   type: "Panel"
 closing:
   event: "Closing Remarks and Award Ceremony"
-  start: "5:55"
+  start: "5:30"
   type: "General"
