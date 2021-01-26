@@ -91,7 +91,7 @@ This workshop aims at the intersection of these challenges of synthetic data gen
 <div class="container">
   <ul class="mb-1">
     {% for p in site.data.pc.people %}
-      <li class="mb-1">{{ p }}</li>
+      <li class="mb-3">{{ p }}</li>
     {% endfor %}
   </ul>
 </div>
