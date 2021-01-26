@@ -85,10 +85,10 @@ This workshop aims at the intersection of these challenges of synthetic data gen
 # Program Committee
 <!-- prettier-ignore -->
 <h3>Confirmed:</h3>
-<div class="row">
+<div class="container">
   <ul class="list-group list-group-flush">
     {% for p in site.data.pc.people %}
-      <li class="list-group-item col-xs-6 col-sm-4 col-md-3">{{ p }}</li>
+      <li class="row">{{ p }}</li>
     {% endfor %}
   </ul>
 </div>
