@@ -85,13 +85,13 @@ This workshop aims at the intersection of these challenges of synthetic data gen
 # Program Committee
 <!-- prettier-ignore -->
 <h3>TBA</h3>
-<!-- <div class="container">
+<div class="container">
   <ul class="list-group list-group-flush">
     {% for p in site.data.pc.people %}
       <li class="list-group-item col-xs-6 col-sm-4 col-md-3">{{ p }}</li>
     {% endfor %}
   </ul>
-</div> -->
+</div>
 <hr>
 
 <!-- # Related Venues
