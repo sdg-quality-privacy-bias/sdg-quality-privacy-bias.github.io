@@ -84,7 +84,7 @@ This workshop aims at the intersection of these challenges of synthetic data gen
 
 # Program Committee
 <!-- prettier-ignore -->
-<h3>TBA</h3>
+<h3>Confirmed:</h3>
 <div class="container">
   <ul class="list-group list-group-flush">
     {% for p in site.data.pc.people %}
