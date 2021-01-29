@@ -26,7 +26,7 @@ Hayes:
 Fritz:  
   name: "Mario Fritz"
   url: "https://cispa.saarland/group/fritz/"
-  affiliation: "CISPA Helmholtz Center for Information Security, Saarland  University"
+  affiliation: "CISPA Helmholtz Center for Information Security"
   img: "Fritz.jpg"
 Cummings:  
   name: "Rachel Cummings"
