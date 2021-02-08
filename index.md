@@ -16,6 +16,7 @@ This workshop aims at the intersection of these challenges of synthetic data gen
 | ------------- |:-------------:|
 | **Submission** |February 26, 2021 (Anywhere on Earth) |
 | **Notification** | March 26, 2021 |
+| **Camera Ready** | April 16, 2021 |
 | **Submission link**| [link](https://cmt3.research.microsoft.com/SDGICLRW2021) |
 | **Workshop** | May 8, 2021 |
 
