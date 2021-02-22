@@ -18,7 +18,7 @@ This workshop aims at the intersection of these challenges of synthetic data gen
 | **Notification** | March 26, 2021 |
 | **Camera Ready** | April 16, 2021 |
 | **Submission link**| [link](https://cmt3.research.microsoft.com/SDGICLRW2021) |
-| **Workshop** | May 8, 2021 |
+| **Workshop** | May 7, 2021 |
 
 <!-- * Thank you Amazon for ing a best paper award!
 * The 3 best papers will be presented in talks at the workshop! 
