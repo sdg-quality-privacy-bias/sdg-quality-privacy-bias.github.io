@@ -27,7 +27,7 @@ Despite the substantial benefits from using synthetic data, the process of synth
 **Submission:** February 26, 2021 (Anywhere on Earth) <br>
 **Notification:** March 26, 2021
  <br>
-**Workshop:** May 8, 2021
+**Workshop:** May 7, 2021
 
 ### Submission Requirements
 
