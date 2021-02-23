@@ -7,7 +7,7 @@ use-site-title: true
 
 # Schedule
 
-#### Friday, May 8, 2021 
+#### Friday, May 7, 2021 
 #### All times are in PST (UTC -8)
 <!-- #### Location: West 109 + 110, Area West Level 1 -->
 <!-- #### Live Video Stream: [link](https://XXX) -->
