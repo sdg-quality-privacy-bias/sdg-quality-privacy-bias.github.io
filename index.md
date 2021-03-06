@@ -88,8 +88,7 @@ This workshop aims at the intersection of these challenges of synthetic data gen
 <!-- original list class in the template
   <ul class="list-group list-group-flush">
       <li class="list-group-item col-xs-6 col-sm-4 col-md-3">{{ p }}</li> 
--->
-<h3>Confirmed:</h3>
+<h3>Confirmed:</h3>-->
 <div class="container">
   <ul class="mb-3">
     {% for p in site.data.pc.people %}
