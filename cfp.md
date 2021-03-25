@@ -25,7 +25,7 @@ Despite the substantial benefits from using synthetic data, the process of synth
 
 <!--{% include dates.md %} <a href="{site.url}/2020/img/KR2ML2020_template.zip">NeurIPS paper format (adapted)</a>. -->
 **Submission:** March 5, 2021 (Anywhere on Earth) <br>
-**Notification:** March 26, 2021
+**Notification:** March 31, 2021
  <br>
 **Workshop:** May 7, 2021
 
