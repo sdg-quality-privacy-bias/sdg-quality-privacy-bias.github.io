@@ -1,21 +1,21 @@
 paper_3:
-  authors: "Nathan Morrical; Jonathan Tremblay; Yunzhi Lin; Stephen Tyree; Valerio Pascucci; Stan Birchfield; Ingo Wald"
+  authors: "Nathan Morrical (NVIDIA); Jonathan Tremblay (NVIDIA)*; Yunzhi Lin (Georgia Institute of Technology); Stephen Tyree (NVIDIA); Valerio Pascucci (University of Utah); Stan Birchfield (NVIDIA); Ingo Wald (NVIDIA)"
   title: "A Scriptable Tool for Photo Realistic Synthetic Image Generation"
   alt_url: ""
 
 paper_4:
-  authors: "Peiyang He (University of Oxford); Krzysztof Kacprzyk (University of Oxford); Artjom S Joosen (University of Oxford); Michael Collyer (University of Oxford); Charlie J Griffin (University of Oxford); Aleksandar Shtedritski (University of Oxford); Yuki M Asano (University of Oxford)"
+  authors: "Peiyang He (University of Oxford); Krzysztof Kacprzyk (University of Oxford); Artjom S Joosen (University of Oxford); Michael Collyer (University of Oxford); Charlie J Griffin (University of Oxford); Aleksandar Shtedritski (University of Oxford); Yuki M Asano (University of Oxford)*"
   title: "Privacy-preserving object detection"
   alt_url: ""
 
 paper_6:
-  authors: ""
-  title: ""
+  authors: "Niharika Jain (Arizona State University); Alberto Olmo (Arizona State University)*; Sailik Sengupta (Arizona State University); Lydia Manikonda (Rensselaer Polytechnic Institute); Subbarao Kambhampati (Arizona State University)"
+  title: "Imperfect ImaGANation: Implications of GANs Exacerbating Biases on Facial Data"
   alt_url: ""
   
 paper_8:  
-  authors: ""
-  title: ""
+  authors: "Sergul Aydore (Amazon Web Services)*; William Brown (Columbia University); Michael Kearns (University of Pennsylvania); Krishnaram Kenthapadi (Amazon); Luca Melis (Amazon Web Services); Aaron Roth (University of Pennsylvania); Ankit A Siva (Amazon)"
+  title: "Differentially Private Query Release Through Adaptive Projection"
   alt_url: ""
 
 paper_10:
