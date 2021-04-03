@@ -19,7 +19,7 @@ paper_8:
   alt_url: ""
 
 paper_10:
-  authors: "Joonhyun Jeong (Clova Face, NAVER Corp.); Sungmin Cha (Sungkyunkwan University); Youngjoon Yoo (Clova AI Research, NAVER Corp. )*; Sangdoo Yun (NAVER AI LAB); Jongwon Choi (Chung-Ang University)"
+  authors: "Joonhyun Jeong (Clova Face, NAVER Corp.); Sungmin Cha (Sungkyunkwan University); Youngjoon Yoo (Clova AI Research, NAVER Corp.)*; Sangdoo Yun (NAVER AI LAB); Jongwon Choi (Chung-Ang University)"
   title: "Bayesian Perspective on Visual Data Augmentation for Efficient Utilization of Sub-sampled Data"
   alt_url: ""
   
@@ -39,7 +39,7 @@ paper_14:
   alt_url: ""
   
 paper_15:
-  authors: "Gabriel Eilertsen (Linköping University)*; Apostolia Tsirikoglou (Linköping University ); Claes Lundström (Linköping University); Jonas Unger (Linköpings universitet)"
+  authors: "Gabriel Eilertsen (Linköping University)*; Apostolia Tsirikoglou (Linköping University); Claes Lundström (Linköping University); Jonas Unger (Linköpings universitet)"
   title: "Ensembles of GANs for synthetic training data generation"
   alt_url: ""
 
@@ -94,7 +94,7 @@ paper_37:
   alt_url: ""
 
 paper_40:
-  authors: "August DuMont Schütte (Max Planck Institute for Intelligent Systems )*; Jürgen Hetzel (University Hospital of Tübingen); Sergios Gatidis (University of Tübingen); Tobias Hepp (Max Planck Institute for Intelligent Systems); Benedikt Dietz (ETH Zurich); Stefan Bauer (Max Planck institute); Patrick Schwab (ETH Zurich)"
+  authors: "August DuMont Schütte (Max Planck Institute for Intelligent Systems)*; Jürgen Hetzel (University Hospital of Tübingen); Sergios Gatidis (University of Tübingen); Tobias Hepp (Max Planck Institute for Intelligent Systems); Benedikt Dietz (ETH Zurich); Stefan Bauer (Max Planck institute); Patrick Schwab (ETH Zurich)"
   title: "Overcoming Barriers to Data Sharing with Medical Image Generation: A Comprehensive Evaluation"
   alt_url: ""
   
@@ -104,7 +104,7 @@ paper_41:
   alt_url: ""
   
 paper_42:
-  authors: "Xue Jiang (Technische Universität München)*; Xuebing Zhou (Huawei Technologies Düsseldorf GmbH); Jens Grossklags (Technische Universität München )"
+  authors: "Xue Jiang (Technische Universität München)*; Xuebing Zhou (Huawei Technologies Düsseldorf GmbH); Jens Grossklags (Technische Universität München)"
   title: "Privacy-preserving High-dimensional Data Collection with Federated Generative Autoencoder"
   alt_url: ""
   
