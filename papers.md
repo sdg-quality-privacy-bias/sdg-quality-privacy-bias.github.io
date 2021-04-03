@@ -9,11 +9,11 @@ use-site-title: true
 
 <div class="container">
   <ol>
-    <!-- {% for p in site.data.papers %} -->
-        <!-- <li id="{{ p[0] }}"> -->
-            <!-- <b>{{ p[1].title }}</b> -->
-            <!-- <br> -->
-            <!-- <i>{{ p[1].authors }}</i> -->
+    {% for p in site.data.papers %}
+        <li id="{{ p[0] }}">
+            <b>{{ p[1].title }}</b>
+            <br>
+            <i>{{ p[1].authors }}</i>
             <!-- {% if p[1].alt_url == "" %} -->
               <!-- (<a href="{{ site.baseurl }}/papers/KR2ML_2020_{{ p[0] }}.pdf">PDF</a>) -->
             <!-- {% elsif p[1].alt_url == "NONE" %} -->
@@ -21,8 +21,8 @@ use-site-title: true
             <!-- {% else %} -->
               <!-- (<a href="{{ p[1].alt_url }}">PDF</a>) -->
             <!-- {% endif %} -->
-        <!-- </li> -->
-    <!-- {% endfor %} -->
+        </li>
+    {% endfor %}
 <h3>TBA</h3>
 <!-- 1. <b>Latent Execution-Guided Reasoning for Multi-Hop Question Answering on Knowledge Graphs</b> (spotlight paper)<br><i>Hongyu Ren; Hanjun Dai; Bo Dai; Xinyun Chen; Jure Leskovec; Denny Zhou</i>
 [<a href="{{ site.baseurl }}/papers/KR2ML_25_paper.pdf">Paper</a>][<a href="{{ site.baseurl }}/papers/KR2ML_25_poster.pdf">Poster</a>]
