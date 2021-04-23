@@ -1,7 +1,7 @@
 paper_3:
   authors: "Nathan Morrical (NVIDIA); Jonathan Tremblay (NVIDIA)*; Yunzhi Lin (Georgia Institute of Technology); Stephen Tyree (NVIDIA); Valerio Pascucci (University of Utah); Stan Birchfield (NVIDIA); Ingo Wald (NVIDIA)"
   title: "A Scriptable Tool for Photo Realistic Synthetic Image Generation"
-  alt_url: "{{ site.baseurl }}/papers/KR2ML_20_paper.pdf"
+  alt_url: "KR2ML_20_paper.pdf"
 
 paper_4:
   authors: "Peiyang He (University of Oxford); Krzysztof Kacprzyk (University of Oxford); Artjom S Joosen (University of Oxford); Michael Collyer (University of Oxford); Charlie J Griffin (University of Oxford); Aleksandar Shtedritski (University of Oxford); Yuki M Asano (University of Oxford)*"
