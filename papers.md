@@ -14,13 +14,13 @@ use-site-title: true
             <b>{{ p[1].title }}</b>
             <br>
             <i>{{ p[1].authors }}</i>
-            <!-- {% if p[1].alt_url == "" %} -->
-              <!-- (<a href="{{ site.baseurl }}/papers/KR2ML_2020_{{ p[0] }}.pdf">PDF</a>) -->
-            <!-- {% elsif p[1].alt_url == "NONE" %} -->
-              <!-- (PDF not available) -->
-            <!-- {% else %} -->
-              <!-- (<a href="{{ p[1].alt_url }}">PDF</a>) -->
-            <!-- {% endif %} -->
+            {% if p[1].alt_url == "" %}
+              (<a href="{{ site.baseurl }}/papers/SDG_{{ p[0] }}.pdf">PDF</a>)
+            {% elsif p[1].alt_url == "NONE" %}
+              (PDF not available)
+            {% else %}
+              (<a href="{{ p[1].alt_url }}">PDF</a>)
+            {% endif %}
         </li>
     {% endfor %}
 
