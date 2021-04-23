@@ -15,7 +15,7 @@ use-site-title: true
             <br>
             <i>{{ p[1].authors }}</i>
             {% if p[1].alt_url == "" %}
-              (<a href="{{ site.baseurl }}/papers/SDG_{{ p[0] }}_paper.pdf">PDF</a>)
+              (<a href="{{ site.baseurl }}/papers/SDG_{{ p[0] }}.pdf">PDF</a>)
             {% elsif p[1].alt_url == "NONE" %}
               (PDF not available)
             {% else %}
