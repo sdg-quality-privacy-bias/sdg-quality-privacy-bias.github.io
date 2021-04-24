@@ -9,13 +9,13 @@ Synthetic data may be the answer"
   start: "07:10 AM - 07:40 AM"
   type: "Invited"
 contrib0:
-  event: "Lazarou"
-  title: "Few-shot learning via tensor hallucination"
+  event: "Few-shot learning via tensor hallucination"
+  author: "Michalis ML Lazarou"
   start: "07:40 AM - 07:50 AM"
   type: "Contributed"
 contrib1:
-  event: "Liu"
-  title: "Contributed Talk: Leveraging Public Data for Practical Private Query Release"
+  event: "Leveraging Public Data for Practical Private Query Release"
+  author: "Terrance Liu"
   start: "07:50 AM - 08:00 AM"
   type: "Contributed"
 Kautz:
@@ -24,7 +24,7 @@ Kautz:
   start: "08:00 AM - 08:30 AM"
   type: "Invited"
 sess1:
-  event: "Coffee Break + Posters"
+  event: "Break + Posters"
   start: "08:30 AM - 09:00 AM"
   type: "Session"
 Yoon:
@@ -34,13 +34,13 @@ Generative Adversarial Networks"
   start: "09:00 AM - 09.30 AM"
   type: "Invited"  
 contrib2:
-  event: "Bhonker"
-  title: "Synthetic Data for Model selection"
+  event: "Synthetic Data for Model selection"
+  author: "Nadav Bhonker"
   start: "09.30 AM - 09:40 AM"
   type: "Contributed"
 contrib3:
-  event: "Eilertsen"
-  title: "Ensembles of GANs for synthetic training data generation"
+  event: "Ensembles of GANs for synthetic training data generation"
+  author: "Gabriel Eilertsen"
   start: "09:40 AM - 09:50 AM"
   type: "Contributed"
 Veloso:
@@ -49,7 +49,7 @@ Veloso:
   start: "09:50 AM - 10.20 AM"
   type: "Invited"
 sess2:
-  event: "Coffee Break + Posters"
+  event: "Break + Posters"
   start: "10.20 AM - 10:50 AM"
   type: "Session"
 Ermon:
@@ -58,18 +58,18 @@ Ermon:
   start: "10:50 AM - 11:20 AM"
   type: "Invited"
 contrib4:
-  event: "Xu"
-  title: "Contributed Talk: FFPDG: Fast, Fair and Private Data Generation"
+  event: "FFPDG: Fast, Fair and Private Data Generation"
+  author: "Weijie Xu"
   start: "11:20 AM - 11:30 AM"
   type: "Contributed"
 contrib5:
-  event: "Bauer"
-  title: "Contributed Talk: Overcoming Barriers to Data Sharing with Medical Image Generation: A Comprehensive Evaluation"
+  event: "Overcoming Barriers to Data Sharing with Medical Image Generation: A Comprehensive Evaluation"
+  author: "Stefan Bauer"
   start: "11:30 AM - 11:40 AM"
   type: "Contributed"
 contrib6:
-  event: "Olmo"
-  title: "Contributed Talk: Imperfect ImaGANation: Implications of GANs Exacerbating Biases on Facial Data"
+  event: "Imperfect ImaGANation: Implications of GANs Exacerbating Biases on Facial Data"
+  author: "Alberto Olmo"
   start: "11:40 AM - 11:50 AM"
   type: "Contributed"
 Dieleman:
