@@ -12,7 +12,7 @@ use-site-title: true
 Despite the substantial benefits from using synthetic data, the process of synthetic data generation is still an ongoing technical challenge. Although the two scenarios of limited data and privacy concerns share similar technical challenges such as quality and fairness, they are often studied separately.
 This workshop aims at the intersection of these challenges of synthetic data generation, and hopes to shine a light on the solutions that address these challenges. The 1st Synthetic Data Generation workshop will be a [virtual workshop at ICLR 2021](https://iclr.cc/virtual/2021/workshop/2125), May 7, 2021. Our goal is to advance the general discussion of the topic by highlighting contributions proposing innovative approaches integrating quality, privacy and bias aspects of synthetic data generation.
 
-* **NEW** [Link to the workshop at ICLR website] (https://iclr.cc/virtual/2021/workshop/2125). Note that registration to the ICLR main conference is required in order to access the website. 
+* **NEW** [Link to the workshop at ICLR website](https://iclr.cc/virtual/2021/workshop/2125). Note that registration to the ICLR main conference is required in order to access the website. 
 
 | ------------- |:-------------:|
 | **Submission** |March 5, 2021 (Anywhere on Earth) |
