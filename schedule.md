@@ -9,6 +9,9 @@ use-site-title: true
 
 #### Friday, May 7, 2021 
 #### All times are in PT 
+
+#### [Link to the live sessions at ICLR website](https://iclr.cc/virtual/2021/workshop/2125). Note that registration to the ICLR main conference is required in order to access the website.
+
 <!-- #### Location: West 109 + 110, Area West Level 1 -->
 <!-- #### Live Video Stream: [link](https://XXX) -->
 
